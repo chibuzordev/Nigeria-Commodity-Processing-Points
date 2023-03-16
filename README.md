@@ -16,4 +16,4 @@ The commodities include
 
 Here's a link to the step-by step process on [Medium]()
 
-View the output file in [HTML form]() 
+View the output file in [HTML form](https://chibuzordev.github.io/Nigeria-Commodity-Processing-Points/) 
