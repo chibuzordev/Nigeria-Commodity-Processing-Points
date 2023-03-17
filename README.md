@@ -14,6 +14,6 @@ The commodities include
 - Cocoa
 - Aquaculture
 
-Here's a link to the step-by step process on [Medium]()
+Here's a link to the step-by step process on [Medium](https://medium.com/@chibuzordev/creating-interactive-maps-the-easy-way-with-python-folium-and-leaflet-js-f5bcc24862f)
 
 View the output file in [HTML form](https://chibuzordev.github.io/Nigeria-Commodity-Processing-Points/) 
